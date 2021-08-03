@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Harshit",
+      "lastName": "Dehariya",
+      "email": "harshit422@gmail.com",
+      "mobile": "9994000456",
+      "price": "56678"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
